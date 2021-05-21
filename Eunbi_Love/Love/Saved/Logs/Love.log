@@ -833,3 +833,47 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.21-02.13.26:241][573]LogSlate: Took 0.058466 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
 [2021.05.21-02.13.29:674][778]LogSlate: Window '메시지 로그' being destroyed
 [2021.05.21-02.13.29:689][778]LogSlate: Window '메시지 로그' being destroyed
+[2021.05.21-02.17.06:015][327]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.05.21-02.17.06:032][327]LogContentBrowser: Creating deferred item: NewFolder
+[2021.05.21-02.17.18:811][849]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2021.05.21-02.17.18:812][849]LogContentBrowser: End creating deferred item NewFolder
+[2021.05.21-02.18.46:360][ 19]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\user\Downloads\Data\Data\SM_P38_Body.FBX)
+[2021.05.21-02.18.46:372][ 19]LogFbx: Loading FBX Scene from C:\Users\user\Downloads\Data\Data\SM_P38_Body.FBX
+[2021.05.21-02.18.46:380][ 19]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.21-02.18.55:353][ 19]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2021.05.21-02.18.55:392][ 19]LogStaticMesh: SM_P38_Body 스태틱 메시 빌드중...
+[2021.05.21-02.18.55:420][ 19]LogStaticMesh: Built static mesh [0.03s] /Game/Textures/SM_P38_Body.SM_P38_Body
+[2021.05.21-02.18.55:429][ 19]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.05.21-02.18.55:496][ 19]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\user\Downloads\Data\Data\SM_P38_Propeller.FBX)
+[2021.05.21-02.18.55:532][ 19]LogFbx: Loading FBX Scene from C:\Users\user\Downloads\Data\Data\SM_P38_Propeller.FBX
+[2021.05.21-02.18.55:538][ 19]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.21-02.18.55:541][ 19]LogStaticMesh: SM_P38_Propeller 스태틱 메시 빌드중...
+[2021.05.21-02.18.55:550][ 19]LogStaticMesh: Built static mesh [0.01s] /Game/Textures/SM_P38_Propeller.SM_P38_Propeller
+[2021.05.21-02.18.55:555][ 19]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.05.21-02.18.55:560][ 19]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\user\Downloads\Data\Data\SM_Rocket.FBX)
+[2021.05.21-02.18.55:575][ 19]LogFbx: Loading FBX Scene from C:\Users\user\Downloads\Data\Data\SM_Rocket.FBX
+[2021.05.21-02.18.55:585][ 19]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.21-02.18.55:603][ 19]LogStaticMesh: SM_Rocket 스태틱 메시 빌드중...
+[2021.05.21-02.18.55:642][ 19]LogStaticMesh: Built static mesh [0.04s] /Game/Textures/SM_Rocket.SM_Rocket
+[2021.05.21-02.18.55:653][ 19]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.05.21-02.18.58:907][369]LogSlate: Window '메시지 로그' being destroyed
+[2021.05.21-02.18.58:915][369]LogSlate: Window '메시지 로그' being destroyed
+[2021.05.21-02.19.06:860][ 30]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.05.21-02.19.06:874][ 30]LogContentBrowser: Creating deferred item: NewFolder
+[2021.05.21-02.19.13:152][780]LogContentBrowser: Attempting asset rename: NewFolder -> Meshes
+[2021.05.21-02.19.13:153][780]LogContentBrowser: End creating deferred item NewFolder
+[2021.05.21-02.19.25:930][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_P38_Body" FILE="C:/Work/Eunbi_Love/Love/Content/Meshes/SM_P38_Body.uasset" SILENT=true
+[2021.05.21-02.19.26:109][870]LogSavePackage: Moving 'C:/Work/Eunbi_Love/Love/Saved/SM_P38_Body061610F44AEC928F89F32FB013A3DB9C.tmp' to 'C:/Work/Eunbi_Love/Love/Content/Meshes/SM_P38_Body.uasset'
+[2021.05.21-02.19.26:155][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_P38_Propeller" FILE="C:/Work/Eunbi_Love/Love/Content/Meshes/SM_P38_Propeller.uasset" SILENT=true
+[2021.05.21-02.19.26:168][870]LogSavePackage: Moving 'C:/Work/Eunbi_Love/Love/Saved/SM_P38_Propeller4CDE5E054EABFA0EF370C8A52A2DEF8A.tmp' to 'C:/Work/Eunbi_Love/Love/Content/Meshes/SM_P38_Propeller.uasset'
+[2021.05.21-02.19.26:180][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_Rocket" FILE="C:/Work/Eunbi_Love/Love/Content/Meshes/SM_Rocket.uasset" SILENT=true
+[2021.05.21-02.19.26:201][870]LogSavePackage: Moving 'C:/Work/Eunbi_Love/Love/Saved/SM_RocketD974FADE429C055FE04AC299182A49FE.tmp' to 'C:/Work/Eunbi_Love/Love/Content/Meshes/SM_Rocket.uasset'
+[2021.05.21-02.19.26:304][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.05.21-02.19.26:308][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.05.21-02.19.26:312][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.05.21-02.19.26:328][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.05.21-02.19.26:332][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.05.21-02.19.26:405][870]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.05.21-02.19.26:405][870]LogContentValidation: Display: StaticMesh /Game/Meshes/SM_P38_Body.SM_P38_Body 유효성 검사
+[2021.05.21-02.19.26:406][870]LogContentValidation: Display: StaticMesh /Game/Meshes/SM_P38_Propeller.SM_P38_Propeller 유효성 검사
+[2021.05.21-02.19.26:406][870]LogContentValidation: Display: StaticMesh /Game/Meshes/SM_Rocket.SM_Rocket 유효성 검사
